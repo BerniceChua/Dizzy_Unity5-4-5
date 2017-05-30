@@ -6,6 +6,8 @@ Unfortunately, using an older version of Unity did not solve the problem.  Inste
 - <https://docs.unity3d.com/ScriptReference/Input-acceleration.html>
 - <https://docs.unity3d.com/ScriptReference/AccelerationEvent.html>
 
+The continuation of this will be in the [original version of this project](https://github.com/BerniceChua/Dizzy) -- which is using the updated/most current version of Unity (5.5.1) -- so please go there to see more progress on this.
+
 ### Technologies Used
 - Unity3D
 - C#
