@@ -4,6 +4,7 @@ This is the version of [Dizzy](https://github.com/BerniceChua/Dizzy) made with a
 Unfortunately, using an older version of Unity did not solve the problem.  Instead, I just used this to try out the [different methods/functions](http://answers.unity3d.com/questions/464042/detect-android-device-movment.html) to see which one does what I need to access the Android sensors that gather [inputs](https://docs.unity3d.com/ScriptReference/Input.html) for [movement](http://answers.unity3d.com/questions/464042/detect-android-device-movment.html), then I will use what I've learned back to the [original version of this project](https://github.com/BerniceChua/Dizzy):
 - <https://docs.unity3d.com/ScriptReference/Gyroscope.html>
 - <https://docs.unity3d.com/ScriptReference/Input-acceleration.html>
+- <https://docs.unity3d.com/ScriptReference/AccelerationEvent.html>
 
 ### Technologies Used
 - Unity3D
